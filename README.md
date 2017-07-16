@@ -22,6 +22,8 @@ Forum
 ## 講義資料
 see pdf directory.
 
+- [「グーグルの自動運転Carの技術要素」勉強会 2014.08.29](https://www.slideshare.net/minoruchikamune/car-20140829)
+
 - Lesson 1: The Problem of Localization
   https://tyfkda.github.io/blog/2013/05/05/ai-localization.html
 - Lesson 2: Kalman Filters
