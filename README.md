@@ -14,6 +14,7 @@ Forum
 
 ## Other's github Repository
 - https://github.com/ftynse/cs373
+- https://github.com/bcontins/udacity-cs373
 - https://github.com/vicapow/udacity-ai-solutions
 - https://github.com/jeremy-shannon/udacity-AI-for-robotics
 - https://github.com/ioarun/ai-for-robotics-udacity
